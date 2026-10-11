@@ -23,7 +23,7 @@ cd ..
 
 ## Install Required Packages:
 ```bash
-git checkout /dyspan2026
+git checkout /milcom
 pip install -r requirements.txt
 ```
 
