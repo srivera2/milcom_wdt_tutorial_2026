@@ -3,7 +3,7 @@ title:               Wireless Digital Twins
 tagline:             'MILCOM 2026'
 description:         'Getting Started'
 url:                 https://srivera2.github.io
-baseurl:             /milcom2026_wdt_tutorial
+baseurl:             /milcom_wdt_tutorial_2026
 paginate:            5
 permalink:           pretty
 
