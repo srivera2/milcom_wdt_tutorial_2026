@@ -1,9 +1,9 @@
 # Setup
 title:               Wireless Digital Twins
-tagline:             'DySPAN 2026'
+tagline:             'MILCOM 2026'
 description:         'Getting Started'
-url:                 https://srivera2.github.io/dyspan_wdt_tutorial_2026/
-baseurl:             ''
+url:                 https://srivera2.github.io
+baseurl:             /milcom2026_wdt_tutorial
 paginate:            5
 permalink:           pretty
 
