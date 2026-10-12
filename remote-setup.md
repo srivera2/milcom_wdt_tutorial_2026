@@ -9,7 +9,7 @@ For this version of the tutorial, no local installation is required!
 
 Given our limited hardware resources, we ask that participants using this tutorial version form small groups. For each group, you will be assigned a corresponding account on our **JupyterHub** server:
 
-[Launch JupyterHub](milcom.clickdt.io)
+[Launch JupyterHub](https://milcom.clickdt.io)
 
 ## Logging in
 
